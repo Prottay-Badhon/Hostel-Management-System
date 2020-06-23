@@ -1,0 +1,29 @@
+#profileDiv:hover {
+	transition:.5s;
+	transform:scale(1.03);
+	cursor:pointer;
+	
+	
+}
+#RoomDiv:hover{
+	transition:.5s;
+	transform:scale(1.03);
+	cursor:pointer;
+
+	
+}
+#smlDiv:hover{
+	color:green;
+	font-weight:bold;
+}
+
+#smlDiv2:hover{
+	color:purple;
+	font-weight:bold;
+}
+#logOutDiv:hover{
+	transition:.5s;
+	transform:scale(1.2);
+	cursor:pointer;
+
+}
